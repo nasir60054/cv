@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+}
+
+h1 {
+    font-style: italic;
+    color: blue;
+}
+h2 {
+    color:blue ;
+}
+h3 {
+    color: blue;
+}
+h4 {
+
+    color: blue;
+}
+
+hr {
+    
+    
+     border-style: none;
+     border-top-style: dotted;
+     border-color: red;
+     border-width: 12px;
+     width: 5%;
+}
+
